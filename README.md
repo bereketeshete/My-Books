@@ -15,5 +15,9 @@ KiCAD <br>
 https://docs.google.com/document/d/14L4g3JYW2fsX-QdCfy5XoNbjtNGqQ47M1ZoouP2Yc3M/edit?usp=sharing
 
 
+Jupyter notebook coding guide <br>
+https://docs.google.com/document/d/1rBtHX1fcT5afLlrETXQ6a11vGV5La1SUxjD_4EqnXH4/edit#
+
+
 
 
