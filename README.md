@@ -19,5 +19,12 @@ Jupyter notebook coding guide <br>
 https://docs.google.com/document/d/1rBtHX1fcT5afLlrETXQ6a11vGV5La1SUxjD_4EqnXH4/edit#
 
 
+Draw io Guide: <br>
+https://docs.google.com/document/d/1c09cb6Ybg-sMSmoz9zYhTkjoH_--Lm6OpkgmD9CknYA/edit
+
+
+
+
+
 
 
