@@ -2,8 +2,15 @@
 
 ## Web Books
 
+
+
 Python Book <br>
 https://docs.google.com/document/d/1LfdZUfD4xlmsHzDa6flnizzYaw4DeWEuneCoDm-wylU/edit#
+
+<br>
+
+Machine Learning Guide:
+https://docs.google.com/document/d/14hkY89JQspZVDb6qRMXdQti3FpW86Dl5OJ6qphwt1Oc/edit?usp=sharing
 
 <br>
 
