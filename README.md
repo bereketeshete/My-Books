@@ -34,6 +34,10 @@ EtherCAT Guide: <br>
 https://docs.google.com/document/d/1YD7RINasxqz5z45VO4DrHCZJLQUDZ_9wcbpUqHfqbk4/edit
 
 
+Copyright Guide: <br>
+https://docs.google.com/document/d/1O6X0YrbWCZmAPNyFsgV4LD_YcJFkr-OvuTTSMUBeexE/edit
+
+
 
 
 
