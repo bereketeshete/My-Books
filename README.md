@@ -22,8 +22,8 @@ Jupyter notebook coding guide <br>
 https://docs.google.com/document/d/1rBtHX1fcT5afLlrETXQ6a11vGV5La1SUxjD_4EqnXH4/edit#
 
 
-Python GUIDE: <br>
-https://docs.google.com/document/d/1LfdZUfD4xlmsHzDa6flnizzYaw4DeWEuneCoDm-wylU/edit
+CPP GUIDE: <br>
+https://docs.google.com/document/d/1bXBCadiL2GtQ5z9S79e3ao4kKvup6kEYj-MGyt48WRQ/edit
 
 
 Draw io Guide: <br>
