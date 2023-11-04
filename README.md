@@ -8,6 +8,12 @@ Python Book <br>
 https://docs.google.com/document/d/1LfdZUfD4xlmsHzDa6flnizzYaw4DeWEuneCoDm-wylU/edit#
 <br>
 
+
+Ruby Rails Guide: <br>
+https://docs.google.com/document/d/1TivqEIHNz3cauI907Ax8Rtlse29VzckjUovNFkxpo_o/edit?usp=sharing
+
+
+
 Machine Learning Guide:
 https://docs.google.com/document/d/14hkY89JQspZVDb6qRMXdQti3FpW86Dl5OJ6qphwt1Oc/edit?usp=sharing
 
