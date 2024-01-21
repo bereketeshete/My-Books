@@ -3,7 +3,7 @@
 ## Web Books
 
 
-### Favs
+### 1. Favs
 
 Python Book <br>
 https://docs.google.com/document/d/1LfdZUfD4xlmsHzDa6flnizzYaw4DeWEuneCoDm-wylU/edit#
@@ -22,6 +22,14 @@ https://docs.google.com/document/d/14hkY89JQspZVDb6qRMXdQti3FpW86Dl5OJ6qphwt1Oc/
 Git Guide <br>
 https://docs.google.com/document/d/1EcckNPDI1V8quEf5X-Hw_KaVCnXbtGqAM-nCrxV21qI/edit#
 
+-------------------------------------
+### Programming Guides
+
+
+Java Guide: <br>
+https://docs.oracle.com/javase/tutorial/
+
+
 
 -------------------------------------
 
@@ -37,6 +45,7 @@ https://docs.google.com/document/d/14L4g3JYW2fsX-QdCfy5XoNbjtNGqQ47M1ZoouP2Yc3M/
 PHP GUIDE: <br>
 https://docs.google.com/document/d/1WKrHaZcJl28NKu5_PwWuZCxFmpjPFf5YLk0UURY2BlM/edit?usp=sharing
 
+-------------------------------------
 
 
 
