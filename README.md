@@ -45,6 +45,10 @@ https://docs.google.com/document/d/14L4g3JYW2fsX-QdCfy5XoNbjtNGqQ47M1ZoouP2Yc3M/
 PHP GUIDE: <br>
 https://docs.google.com/document/d/1WKrHaZcJl28NKu5_PwWuZCxFmpjPFf5YLk0UURY2BlM/edit?usp=sharing
 
+
+SQL GUIDE: <br>
+[https://docs.google.com/document/d/1WKrHaZcJl28NKu5_PwWuZCxFmpjPFf5YLk0UURY2BlM/edit?usp=sharing](https://docs.google.com/document/d/1-JLQFU0cCaDdneFf-lDUNUOTbAL3RniIMkPG-XssWL0/edit?tab=t.0)
+
 -------------------------------------
 
 
