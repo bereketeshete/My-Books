@@ -33,6 +33,10 @@ https://docs.oracle.com/javase/tutorial/
 
 -------------------------------------
 
+Batch Scripting GUIDE: <br>
+[https://docs.google.com/document/d/1bXBCadiL2GtQ5z9S79e3ao4kKvup6kEYj-MGyt48WRQ/edit](https://docs.google.com/document/d/1lurDkg2NXGfudLrfaVkBC0o6z8erVetAKQ_myHu8KBM/edit?usp=sharing)
+
+
 CPP GUIDE: <br>
 https://docs.google.com/document/d/1bXBCadiL2GtQ5z9S79e3ao4kKvup6kEYj-MGyt48WRQ/edit
 
